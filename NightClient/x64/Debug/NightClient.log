@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\alpha\documents\visual studio 2015\projects\nightserver\nightclient\main.cpp(60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  NightClient.vcxproj -> C:\Users\ALPHA\Documents\Visual Studio 2015\Projects\NightServer\x64\Debug\NightClient.exe
+  NightClient.vcxproj -> C:\Users\ALPHA\Documents\Visual Studio 2015\Projects\NightServer\x64\Debug\NightClient.pdb (Partial PDB)
